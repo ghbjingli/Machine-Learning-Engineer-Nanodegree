@@ -29,4 +29,4 @@ Materials Submitted:
 6. Code are stored in the following sub folders
   * Phase 1 code - folder contains jupyter ipynb files for phase 1 code and results
   * Phase 2 code - folder contains jupyter ipynb files for phase 2 code and results
-  * Final model code - folder contains jupyter ipynb files for final solution code and results
+  * Final model code - folder contains jupyter ipynb files for final solution code, saved models and results
