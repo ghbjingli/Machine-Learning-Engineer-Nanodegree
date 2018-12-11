@@ -5,9 +5,9 @@ Development Environment
   * Memory: 16 GB 1600 MHz DDR3
   * Not using GPU since Tensorflow does not support Mac GPU
   
-OS: macOS High Sierra version 10.13.1
+* OS: macOS High Sierra version 10.13.1
 
-Major Software:
+* Major Software:
   * Python 3.6.7
   * jupyter 1.0.0
   * keras 2.2.4
