@@ -22,9 +22,11 @@ Development Environment
   
 Materials Submitted:
 1. README (This one)
-2. Capstone Project Report
-3. Link to the Capstone Proposal
-4. Code -
+2. Capstone Proposal
+3. Project Report
+4. Dataset can be downloaded from here: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+5. Pre-trained word vectors: Crawl-300d-2M.vec.zip - https://s3-us-west-1.amazonaws.com/fasttext-vectors/crawl-300d-2M.vec.zip
+6. Code are stored in the following sub folders
   * Phase 1 code - folder contains jupyter ipynb files for phase 1 code and results
   * Phase 2 code - folder contains jupyter ipynb files for phase 2 code and results
   * Final model code - folder contains jupyter ipynb files for final solution code and results
