@@ -27,6 +27,7 @@ Materials Submitted:
 4. Dataset can be downloaded from here: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 5. Pre-trained word vectors: Crawl-300d-2M.vec.zip - https://s3-us-west-1.amazonaws.com/fasttext-vectors/crawl-300d-2M.vec.zip
 6. Code are stored in the following sub folders
+  * EDA code - folder contains exploratory data analysis code and results
   * Phase 1 code - folder contains jupyter ipynb files for phase 1 code and results
   * Phase 2 code - folder contains jupyter ipynb files for phase 2 code and results
   * Final model code - folder contains jupyter ipynb files for final solution code, saved models and results
