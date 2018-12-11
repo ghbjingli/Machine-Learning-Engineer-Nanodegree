@@ -1,9 +1,9 @@
 
 Development Environment
 * Hardware - MacBook Pro 
-  ** Processor: 2.5 GHz Intel Core i7
-  ** Memory: 16 GB 1600 MHz DDR3
-  ** Not using GPU since Tensorflow does not support Mac GPU
+  * Processor: 2.5 GHz Intel Core i7
+  * Memory: 16 GB 1600 MHz DDR3
+  * Not using GPU since Tensorflow does not support Mac GPU
   
 OS: macOS High Sierra version 10.13.1
 Major Software:
